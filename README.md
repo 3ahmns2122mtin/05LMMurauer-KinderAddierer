@@ -11,15 +11,13 @@ Visual Studios 2019
 WebGL Referenzauflösung (960x600) 
 
 ### Visuelle Einblicke in das Projekt: 
-https://3ahmns2122mtin.github.io/03CKloesch-KinderAddierer/
+ https://3ahmns2122mtin.github.io/05LMMurauer-KinderAddierer/
 
 ### Notwendiges für die Ausführung: 
 z.B.: Installationsprozess, Schritt für Schritt Anweisung, spezielles Packages welches geladen werden muss, etc.  
 
 ### Drittmaterial: 
-Background: Pixel_Town
-Background Music: Peanut Plain - Kirby Superstar
-Font: PixelDigivolve
+
 
 ### Anforderungsliste:  
 - [x] Neues Projekt in Unity anlegen
@@ -52,4 +50,4 @@ Font: PixelDigivolve
 - [x] Zugriff auf Kind Objekte
 - [x] Interaktivität En/Disable
 
-Copyright by CKloesch :)
+Copyright by LMurauer :)
